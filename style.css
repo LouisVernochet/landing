@@ -96,7 +96,7 @@ p {
   margin: 10px 0;
 }
 
- Navigation styles */
+ /* Navigation styles */
 nav {
   background-color: #f2f2f2;
   padding: 10px 0;
@@ -125,7 +125,7 @@ a:hover {
   color: #000;
 }
 
- Main content styles */
+ /* Main content styles */
 main {
   padding: 20px 0;
   text-align: center;
@@ -172,7 +172,8 @@ h2 {
   margin: 5px 0;
 }
 
- Image styles */
+ /* Image styles */
+
 .image1 {
   width: 100%;
   height: 200px;
